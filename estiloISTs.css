@@ -1,0 +1,39 @@
+p {
+    color: whitesmoke;
+    font-size: large;
+   
+}
+
+body {
+    background-color: black;
+    line-height: 1.5;
+
+}
+
+h2 {
+    color:deeppink;
+}
+
+h3 {
+    color:aquamarine;
+}
+
+h4 {
+    color:mediumpurple;
+}
+
+h1 {
+    color:springgreen;
+}
+
+a {
+    display: inline-block;
+    padding: 5px 6px;
+    background-color: #41022d;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.2s;
+
+}
