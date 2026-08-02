@@ -37,3 +37,34 @@ a {
     transition: background-color 0.3s ease, transform 0.2s;
 
 }
+
+header {
+    background-color: #41022d;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 3px solid deeppink;
+}
+
+header h1 {
+    color: rgb(0, 255, 221);
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+nav a {
+    margin: 5px;
+}
+
+footer {
+    background-color: #41022d;
+    color: whitesmoke;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+    border-top: 3px solid deeppink;
+}
+
+footer p {
+    margin: 0;
+    font-size: 16px;
+}
