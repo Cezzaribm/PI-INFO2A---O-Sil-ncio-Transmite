@@ -2,7 +2,7 @@
 
 Publicado em: https://cezzaribm.github.io/PI-INFO2A---O-Sil-ncio-Transmite/
 
-Relatório: Bernardo Cézar e Rafaella.
+Relatório: João Pedro e Rafaella.
 
 Avaliação do Orientador: Pedro Lucas.
 
